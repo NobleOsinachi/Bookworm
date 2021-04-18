@@ -1,3 +1,5 @@
-# BookWorm
+  # BookWorm
 
-Production version of BookWorm
+This is the production build of [BookWorm](https://github.com/NobleOsinachi/BookWorm/)
+
+Demo of progress can be found [here](https://elbon-concepts.netlify.app/).
